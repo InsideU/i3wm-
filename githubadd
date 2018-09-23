@@ -1,0 +1,7 @@
+#PROCESS TO UPLOAD FILE ON GITHUB USING COMMAND LINE
+
+1.git init 
+2.git commit -m "filename"
+3.git remote add origin 
+4.https://github.com/asdf/test-repository.git
+5.git push -u origin master
