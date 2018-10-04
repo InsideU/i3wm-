@@ -25,6 +25,9 @@ set number
 " Show file stats
 set ruler
 
+"enable mouse 
+set mouse=a
+
 " Blink cursor on error instead of beeping (grr)
 set visualbell
 
