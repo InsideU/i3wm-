@@ -21,7 +21,7 @@ set modelines=0
 
 " Show line numbers
 set number
-
+set shiftwidth=4
 " Show file stats
 set ruler
 
